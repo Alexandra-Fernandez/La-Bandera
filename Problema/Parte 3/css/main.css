@@ -1,0 +1,21 @@
+div{
+	padding: 3px 20px 20px;
+	margin: 20px 30px 20px 20px;
+	width: 150px;
+	height: 100px;
+	float: left;
+
+}
+.Lab {
+	background-color: yellow;
+	
+}
+#es {
+	background-color: red;
+	
+
+}
+#T {
+	background-color: yellow;
+	
+}
