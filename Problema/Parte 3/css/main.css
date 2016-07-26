@@ -1,21 +1,21 @@
-div{
-	padding: 3px 20px 20px;
-	margin: 20px 30px 20px 20px;
-	width: 150px;
+.caja {	
 	height: 100px;
+	width: 200px;
+	margin-bottom: 10px;
+	padding: 10px;
+	box-sizing: border-box;
 	display: inline-block;
+	margin-right: 15px;
+}
 
+.red {
+	background: red;
 }
-.Lab {
-	background-color: yellow;
-	
-}
-#es {
-	background-color: red;
-	
 
+.yellow {
+	background: yellow;
 }
-#T {
-	background-color: yellow;
-	
+
+.inline-block {
+	display: inline-block;
 }

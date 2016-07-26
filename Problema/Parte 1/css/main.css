@@ -1,18 +1,15 @@
-#lab {
-	background-color: yellow;
-	padding-bottom: 30px;
-	margin-bottom: -16px;
-	display: block;
+.caja {	
+	height: 100px;
 }
-#es {
-	background-color: red;
-	padding-bottom: 30px;
-	margin-bottom: -16px;
-	display: block;
+
+.red {
+	background: red;
 }
-#T {
-	background-color: yellow;
-	padding-bottom: 30px;
-	margin-top: -16px;
-	display: block;
+
+.yellow {
+	background: yellow;
+}
+
+.inline-block {
+	display: inline-block;
 }
